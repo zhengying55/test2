@@ -1,0 +1,5 @@
+1、xd_sys_prod_retukinddef  //产品还款计划定义表
+2、xd_sys_prod_retukind //还款计划表（与产品表关联）
+3、xd_sys_prod_retukindbillplan //还款方式账单计划表设置
+4、xd_list_rele  //单据信息--放款信息、
+5、xd_const_prod //产品定义
